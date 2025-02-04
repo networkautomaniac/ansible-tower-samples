@@ -5,3 +5,7 @@
         msg: 
           - "Hello World!"
           - "Foo Bar!"
+    - debug:
+        msg: 
+          - "Hello Universe!"
+          - "Bar Foo!"
